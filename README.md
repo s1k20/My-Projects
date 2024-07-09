@@ -31,9 +31,11 @@
 <details>
   <summary><h2><strong>📂 C</summary>
   <ul>
-    <li><a href="https://github.com/yourusername/Rails-App">Rails App</a></li>
-    <li><a href="https://github.com/yourusername/Sinatra-Project">Sinatra Project</a></li>
-    <li><a href="https://github.com/yourusername/Ruby-Gem">Ruby Gem</a></li>
+    <li><a href="https://github.com/s1k20/Kanban-Board">Kanban Board</a></li>
+    <li><a href="https://github.com/s1k20/Gantt-Chart">Gantt Chart</a></li>
+    <li><a href="https://github.com/s1k20/Music-Player">Music Player</a></li>
+    <li><a href="https://github.com/s1k20/Lottery-Game">Lottery Simulator</li>
+    <li><a href="https://github.com/s1k20/HealthCalculator">BMI Calculator</li>
   </ul>
 </details>
 
