@@ -4,7 +4,7 @@
 <details>
   <summary><h2><strong>📂 Java</summary>
   <ul>
-
+     <li><a href="https://github.com/s1k20/BlackBox">BlackBox+</a></li>
   </ul>
 </details>
 
