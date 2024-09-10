@@ -5,6 +5,7 @@
   <summary><h2><strong>📂 Java</summary>
   <ul>
      <li><a href="https://github.com/s1k20/BlackBox">BlackBox+</a></li>
+    <li><a href="https://github.com/s1k20/Data-Structures">BlackBox+</a></li>
   </ul>
 </details>
 
