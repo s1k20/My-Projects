@@ -6,6 +6,8 @@
   <ul>
      <li><a href="https://github.com/s1k20/BlackBox">BlackBox+</a></li>
     <li><a href="https://github.com/s1k20/Data-Structures">Data-Structures</a></li>
+    <li><a href=" https://github.com/s1k20/Wordle-Solver/tree/main">Wordle Solver</a></li>
+   
   </ul>
 </details>
 
