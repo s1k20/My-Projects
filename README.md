@@ -11,19 +11,7 @@
   </ul>
 </details>
 
-<details>
-  <summary><h2><strong>📂 JavaScript</summary>
-  <ul>
 
-  </ul>
-</details>
-
-<details>
-  <summary><h2><strong>📂 C++</summary>
-  <ul>
-
-  </ul>
-</details>
 
 <details>
   <summary><h2><strong>📂 C</summary>
@@ -37,16 +25,12 @@
 </details>
 
 <details>
-<summary><h2><strong>📂 Python</strong></h2></summary>
+  <summary><h2><strong>📂 HTML/CSS/JavaScript/PHP</summary>
   <ul>
-
+    <li><a href="https://github.com/s1k20/Rome-Travel-Website">Rome Travel Guide</a></li>
   </ul>
 </details>
 
-<details>
-<summary><h2><strong>📂 Rust </strong></h2></summary>
-  <ul>
 
-  </ul>
-</details>
+
 
