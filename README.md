@@ -39,3 +39,13 @@
 </details>
 
 
+<details>
+  <summary><h2><strong>📂 SQL</summary>
+  <ul>
+    <li><a href="https://github.com/s1k20/Book-Review-Author-Sentiment-Analysis.git">Book-Review-Author-Sentiment-Analysis</a></li>
+  </ul>
+</details>
+
+
+
+
